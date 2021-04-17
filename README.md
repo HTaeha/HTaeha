@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@HTaeha/77a0742b-0694-4d4c-b0f8-fb381aeb0a67.png" /></a>
 
 <!--
 **HTaeha/HTaeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

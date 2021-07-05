@@ -3,6 +3,7 @@
 
 ### My Study Website
 https://app.gitbook.com/@xogk39/s/htaeha/
+[![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=https://xogk39.medium.com/)](https://xogk39.medium.com/)
 
 <!--
 **HTaeha/HTaeha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

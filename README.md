@@ -1,7 +1,10 @@
 ### Hi there 👋
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@HTaeha/77a0742b-0694-4d4c-b0f8-fb381aeb0a67.png" /></a>
 
-### My Study Website
+### About me
+https://htaeha.github.io
+
+### Blockchain blog
 https://app.gitbook.com/@xogk39/s/htaeha/
 
 [![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=https://xogk39.medium.com/)](https://xogk39.medium.com/)
